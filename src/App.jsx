@@ -257,7 +257,7 @@ export default function App() {
           max: 9,
           interval: 1,
 
-          // ✅ Title along the axis
+          //Title along the axis
           nameLocation: "middle",
           nameRotate: 90,
           nameGap: 40,
